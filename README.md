@@ -2,3 +2,5 @@
 ========
 
 CS 3240 Lab 5
+
+updated readme
